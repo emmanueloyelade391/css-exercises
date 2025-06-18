@@ -33,7 +33,7 @@ ul {
   gap: 18px; 
 }
 
-.header {
+.header, .footer {
   padding: 16px;
   display: flex;
   justify-content: space-between;
