@@ -46,6 +46,8 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  height: 50%;
+  width: 100%;
 }
 
 .content {
@@ -55,4 +57,5 @@ a {
 
 .card-content {
   padding: 48px;
+  display: flex;
 } 
