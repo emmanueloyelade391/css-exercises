@@ -28,4 +28,5 @@ input {
 ul {
   list-style: none;
   display: flex;
+  gap: 12px; 
 }
