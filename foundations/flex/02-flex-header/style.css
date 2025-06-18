@@ -1,8 +1,11 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  padding-top: 8px;
+  padding-bottom: 8px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .logo {
@@ -31,8 +34,10 @@ a {
 
 .left-links {
   margin-left: 8px;
+  display: flex;
 }
 
 .right-links {
   margin-right: 8px;
+  display: flex;
 }
