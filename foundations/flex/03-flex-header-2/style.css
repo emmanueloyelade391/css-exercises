@@ -49,3 +49,15 @@ ul {
   list-style-type: none;
   padding: 0;
 }
+
+.left-side {
+  display: flex;
+  margin-right: auto;
+  gap: 16px;
+}
+
+.right-side {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
