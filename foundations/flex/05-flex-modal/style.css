@@ -55,6 +55,11 @@ body {
   display: flex; 
 }
 
+.header {
+  font-weight: bold;
+  font-size: 18px;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
